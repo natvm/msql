@@ -1,0 +1,37 @@
+﻿<Language xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.dotnetfireball.net/fireball/2008/codeeditor/parser">
+    <Language.Scopes>
+        <Scope Name="prova">
+            <Scope.Start>{</Scope.Start>
+        </Scope>
+    </Language.Scopes>
+    <Language.PatternGroups>
+        <PatternGroup Name="Minchia">
+            <PatternGroup.PatternsString>
+                abstract base break byte case catch checked class const continue 
+				default delegate do value
+				else enum event exdouble explicit extern
+				false finally fixed for foreach 
+				get goto
+				if implicit in interface internal is
+				lock
+				namespace new null
+				object operator out override
+				private protected public 
+				readonly ref return
+				sealed set sizeof static struct switch
+				this throw true try typeof
+				unchecked unsafe using 
+				virtual
+				while
+        partial
+            </PatternGroup.PatternsString>
+            <Pattern Text=";" IsComplex="False"></Pattern>
+        </PatternGroup>
+        <PatternGroup Name="Numbers" Style="Numbers">
+            <Pattern Text="(0x[0-9a-fA-F]+)" IsComplex="true" />
+            <Pattern Text="([0-9]+)" IsComplex="true" />
+
+        </PatternGroup>
+
+    </Language.PatternGroups>
+</Language>

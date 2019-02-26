@@ -1,0 +1,5 @@
+C:\Users\Miguel\documents\visual studio 2012\Projects\msql\msqlcore\bin\Debug\msqlcore.dll
+C:\Users\Miguel\documents\visual studio 2012\Projects\msql\msqlcore\bin\Debug\msqlcore.pdb
+C:\Users\Miguel\documents\visual studio 2012\Projects\msql\msqlcore\obj\Debug\msqlcore.dll
+C:\Users\Miguel\documents\visual studio 2012\Projects\msql\msqlcore\obj\Debug\msqlcore.pdb
+C:\Users\Miguel\documents\visual studio 2012\Projects\msql\msqlcore\obj\Debug\mysqlcore.csprojResolveAssemblyReference.cache

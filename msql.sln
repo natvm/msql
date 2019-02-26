@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "msql", "msql\msql.csproj", "{66EA7E43-3670-4F5B-8C50-7099AFC1B1CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mysqlcore", "msqlcore\mysqlcore.csproj", "{BCDB6D25-4910-4CC8-A9C6-E05955DC26A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66EA7E43-3670-4F5B-8C50-7099AFC1B1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EA7E43-3670-4F5B-8C50-7099AFC1B1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EA7E43-3670-4F5B-8C50-7099AFC1B1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EA7E43-3670-4F5B-8C50-7099AFC1B1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCDB6D25-4910-4CC8-A9C6-E05955DC26A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDB6D25-4910-4CC8-A9C6-E05955DC26A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDB6D25-4910-4CC8-A9C6-E05955DC26A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDB6D25-4910-4CC8-A9C6-E05955DC26A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
